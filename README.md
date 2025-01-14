@@ -1,5 +1,14 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+a+Full+Stack+Developer;)](https://git.io/typing-svg)
 
+- 🔭 Today I'm studying Information Systems at Universidade Federal de Juiz de Fora (UFJF)
+- 🌱 Studying Java, C++, AWS, Azure
+- 🛠️ Master of the Force.push()
+- 🌟 Conqueror of Bugs
+- ☕ Turning Coffee into Code
+
+## 💻 Programming | Markup Languages | Frameworks | Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,azure,cpp,cmake,java)](https://skillicons.dev)
 <!--
 **gabhrielv/gabhrielv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
